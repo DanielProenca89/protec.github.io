@@ -1,0 +1,93 @@
+body{
+	background:
+linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+background-color: #131313;
+background-size: 20px 20px;
+}
+#logo{
+	width:250px;
+	height:230px;
+	margin:2em;
+	margin-left:50px;
+	background-color:rgba(0, 0, 0,0.7);
+	padding:1em;
+	border-radius:10%;
+}
+.navbar{
+	float:right;
+	margin-right:250px;
+	margin-top:40px;
+	
+	
+	
+}
+
+
+.navbar ul{
+	
+	background-color:rgba(0, 0, 0, 60%);
+	
+	text-align:center;
+	
+}
+ .navbar ul li{
+ 	color:#ffffff;
+ 	display:inline;
+ 	
+ 	
+ }
+  
+  .navbar img{
+  	width:50px;
+  	height: 50px;
+  	padding:10px;
+  	margin-top:20px;
+  	margin-right:10px;
+  	border-radius:100px;
+  	
+  }
+  .navbar ul li a{
+  	text-decoration:none;
+ 	list-style:none;
+ 	color:#ffffff;
+ 	padding:10px;
+ 	font-size:150%;
+ 	font-family:"Lucida Sans",Helvetica
+ 	
+  }
+  .navbar ul li a:hover{
+  	color:#7EE51D;
+  	
+  
+  }
+  
+  #nb{
+  	background-color:rgba(0, 0, 0, 0.7);
+  	padding:1em;
+  	border-radius:50px;
+  	margin-left:15px;
+  }
+  
+  
+  
+  
+.conteudo{
+background:#ffffff;
+height:auto;
+width:auto;
+margin:1em;
+border-radius:5%;
+padding:2em;
+text-align:center;
+}
+
+
+
+
+
+
